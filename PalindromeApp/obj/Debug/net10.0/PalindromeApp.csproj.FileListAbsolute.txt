@@ -1,0 +1,15 @@
+D:\c sharp programs\c-sharp-program\PalindromeApp\bin\Debug\net10.0\PalindromeApp.exe
+D:\c sharp programs\c-sharp-program\PalindromeApp\bin\Debug\net10.0\PalindromeApp.deps.json
+D:\c sharp programs\c-sharp-program\PalindromeApp\bin\Debug\net10.0\PalindromeApp.runtimeconfig.json
+D:\c sharp programs\c-sharp-program\PalindromeApp\bin\Debug\net10.0\PalindromeApp.dll
+D:\c sharp programs\c-sharp-program\PalindromeApp\bin\Debug\net10.0\PalindromeApp.pdb
+D:\c sharp programs\c-sharp-program\PalindromeApp\obj\Debug\net10.0\PalindromeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp programs\c-sharp-program\PalindromeApp\obj\Debug\net10.0\PalindromeApp.AssemblyInfoInputs.cache
+D:\c sharp programs\c-sharp-program\PalindromeApp\obj\Debug\net10.0\PalindromeApp.AssemblyInfo.cs
+D:\c sharp programs\c-sharp-program\PalindromeApp\obj\Debug\net10.0\PalindromeApp.csproj.CoreCompileInputs.cache
+D:\c sharp programs\c-sharp-program\PalindromeApp\obj\Debug\net10.0\PalindromeApp.sourcelink.json
+D:\c sharp programs\c-sharp-program\PalindromeApp\obj\Debug\net10.0\PalindromeApp.dll
+D:\c sharp programs\c-sharp-program\PalindromeApp\obj\Debug\net10.0\refint\PalindromeApp.dll
+D:\c sharp programs\c-sharp-program\PalindromeApp\obj\Debug\net10.0\PalindromeApp.pdb
+D:\c sharp programs\c-sharp-program\PalindromeApp\obj\Debug\net10.0\PalindromeApp.genruntimeconfig.cache
+D:\c sharp programs\c-sharp-program\PalindromeApp\obj\Debug\net10.0\ref\PalindromeApp.dll
