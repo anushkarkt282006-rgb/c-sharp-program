@@ -32,11 +32,15 @@ class Employee
             return "Low Salary";
     }
 
-    public void displaydetails()
 
+    public void displaydetails()
+{
     Console.WriteLine($"Employee ID: {empId}");
     Console.WriteLine($"Employee Name: {empName}");
     Console.WriteLine($"Employee Salary: {salary}");
     Console.WriteLine($"Salary Category: {calculatesalary()}");
 
 
+   }
+
+}
