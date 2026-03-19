@@ -24,6 +24,7 @@ class Employee
     public string calculatesalary()
     
     {
+    
         if (salary >= 100000)
             return "High Salary";
         else if (salary >= 50000)
