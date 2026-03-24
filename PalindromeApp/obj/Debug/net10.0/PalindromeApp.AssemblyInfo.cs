@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PalindromeApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa343b3f74048a4e68e20ee8d4dc50520d6c19b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+979c28f404ca0dd4d061f7ac083f8c938dd158e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("PalindromeApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PalindromeApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
